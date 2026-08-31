@@ -14,7 +14,6 @@ class Student {
         System.out.println(name + " is writing the exam");
     }
 }
-
 public class Main {
 
     public static void main(String[] args) {
