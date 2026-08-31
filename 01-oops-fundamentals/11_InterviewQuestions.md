@@ -1,4 +1,5 @@
 1. Class and Object
+   
 Q1.1: What is a Class and what is an Object in Java?
 
 Answer: A Class is a user-defined blueprint or template that defines the structure (fields) and behavior (methods) of an entity. An Object is an active instance of a class created in memory containing concrete values for those fields.
